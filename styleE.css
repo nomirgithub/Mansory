@@ -1,0 +1,45 @@
+img {
+    width: 90%;
+    max-width: 600px;
+    height: 40vh;
+    margin: auto;
+    border: 10px solid white;
+    border-radius: 20px;
+    margin-bottom: 50px;
+
+}
+
+
+#topDiv {
+    background-image: linear-gradient(rgb(4, 72, 199), rgb(248, 249, 251));
+    padding: 50px 20px;
+    
+
+}
+#centreDiv {
+    padding: 20px;
+
+
+
+}
+#bottomDiv { background-image: linear-gradient(rgb(247, 248, 250), rgb(12, 62, 161));
+    padding: 20px;
+    text-align: center;
+    
+
+}
+#centerDiv p,ul {
+    font-size: 25px;
+}
+#centerDiv ul {
+    font-size: 25px;
+}
+#bottomDiv a {
+    font-size: 25px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+ 
+#bottomDiv button {
+    color: black;
+}
