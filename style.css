@@ -1,0 +1,43 @@
+body {
+    background-image: url(image/pexels-photo-13040146.jpeg);
+    background-size: cover;
+    
+}
+
+#myDiv {
+    max-width: 600px;
+    width: 90%;
+    border-style: double;
+    border-radius: 100px;
+    background-image: url(image/pexels-photo-7233099.jpeg);
+    height: 700px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+#bI {
+    border-radius: 500px;
+    width: 40%;
+    max-width: 200px;
+    border-style: double;
+
+
+}
+#Ta {
+   size: 5000px; 
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-weight: 800;
+
+}
+#lO {
+    color: rgb(211, 210, 212);
+    size: 25px;
+}
+#fA {
+    color: aliceblue;
+}
+#Wa {
+    color: #f5f2f2;
+}
+
